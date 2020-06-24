@@ -16,7 +16,7 @@ h2 {
   float: right;
 }
 
-.main-content {
+.main-section {
   background-color: hsl(270, 9%, 17%);
   color: hsl(0, 0%, 98%);
   padding-bottom: 4rem;
@@ -31,7 +31,7 @@ h2 {
   color: hsl(270, 9%, 17%);
 }
 
-.overlay-img {
+.top-overlay-img {
   margin-top: -100px;
   margin-left: 251px;
 }
@@ -40,4 +40,19 @@ h2 {
   border-color: hsl(0, 0%, 98%);
   color: hsl(0, 0%, 98%);
   text-transform: uppercase;
+}
+
+.find-section {
+  background-color: hsl(270, 9%, 17%);
+  color: hsl(0, 0%, 98%);
+  padding-bottom: 4rem;
+}
+
+.find__content {
+  margin-top: -250px;
+}
+
+.bottom-overlay-img {
+  margin-top: 0;
+  margin-left: 166px;
 }
