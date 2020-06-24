@@ -6,3 +6,22 @@
   padding: 0.8rem;
   float: right;
 }
+
+.main-content {
+  background-color: hsl(270, 9%, 17%);
+  color: hsl(0, 0%, 98%);
+}
+
+.list-content {
+  background-color: hsl(0, 0%, 98%);
+  color: hsl(270, 9%, 17%);
+}
+
+.overlay-img {
+  margin-top: -150px;
+}
+
+.btn-outline-primary {
+  border-color: hsl(0, 0%, 98%);
+  color: hsl(0, 0%, 98%);
+}
